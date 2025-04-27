@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{EC6823A7-7176-4EB1-8603-844DCC2EDBAA}|Ejercicio(Escuela).csproj|d:\\visual studio\\ejercicio(escuela)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC6823A7-7176-4EB1-8603-844DCC2EDBAA}|Ejercicio(Escuela).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6823A7-7176-4EB1-8603-844DCC2EDBAA}|Ejercicio(Escuela).csproj|d:\\visual studio\\ejercicio(escuela)\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6823A7-7176-4EB1-8603-844DCC2EDBAA}|Ejercicio(Escuela).csproj|solutionrelative:salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6823A7-7176-4EB1-8603-844DCC2EDBAA}|Ejercicio(Escuela).csproj|d:\\visual studio\\ejercicio(escuela)\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6823A7-7176-4EB1-8603-844DCC2EDBAA}|Ejercicio(Escuela).csproj|solutionrelative:alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,37 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Visual studio\\Ejercicio(Escuela)\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Visual studio\\Ejercicio(Escuela)\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Visual studio\\Ejercicio(Escuela)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T16:40:54.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "D:\\Visual studio\\Ejercicio(Escuela)\\Alumno.cs",
+              "RelativeDocumentMoniker": "Alumno.cs",
+              "ToolTip": "D:\\Visual studio\\Ejercicio(Escuela)\\Alumno.cs",
+              "RelativeToolTip": "Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:53:47.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Salon.cs",
+              "DocumentMoniker": "D:\\Visual studio\\Ejercicio(Escuela)\\Salon.cs",
+              "RelativeDocumentMoniker": "Salon.cs",
+              "ToolTip": "D:\\Visual studio\\Ejercicio(Escuela)\\Salon.cs",
+              "RelativeToolTip": "Salon.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:53:27.999Z",
               "EditorCaption": ""
             }
           ]

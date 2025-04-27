@@ -1,0 +1,7 @@
+D:\Visual studio\Ejercicio(Escuela)\bin\Debug\Ejercicio(Escuela).exe.config
+D:\Visual studio\Ejercicio(Escuela)\bin\Debug\Ejercicio(Escuela).exe
+D:\Visual studio\Ejercicio(Escuela)\bin\Debug\Ejercicio(Escuela).pdb
+D:\Visual studio\Ejercicio(Escuela)\obj\Debug\Ejercicio(Escuela).csproj.AssemblyReference.cache
+D:\Visual studio\Ejercicio(Escuela)\obj\Debug\Ejercicio(Escuela).csproj.CoreCompileInputs.cache
+D:\Visual studio\Ejercicio(Escuela)\obj\Debug\Ejercicio(Escuela).exe
+D:\Visual studio\Ejercicio(Escuela)\obj\Debug\Ejercicio(Escuela).pdb
